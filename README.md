@@ -69,7 +69,7 @@
   <a href="https://www.instagram.com/victorjqm543" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-  <a href="https://victormartins.dev" target="_blank">
+  <a href="https://victorjoseqm.github.io/victor-martins-portfolio" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=react&label=&color=61DAFB&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
   </a>
 </div>
