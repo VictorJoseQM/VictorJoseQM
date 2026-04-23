@@ -6,16 +6,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats-bay-one-50.vercel.app/api?username=VictorJoseQM&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="150" alt="stats graph" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats-bay-one-50.vercel.app/api/top-langs?username=VictorJoseQM&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph" />
-</div>
-
 ###
 
 <img align="right" height="150" src="https://github.com/user-attachments/assets/5ee6848f-8d15-48f4-be86-fad8fac14f08" alt="GIF CAT" />
