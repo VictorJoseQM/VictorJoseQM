@@ -1,3 +1,9 @@
+<!--
+  Espelho do README do perfil: github.com/VictorJoseQM/VictorJoseQM
+  Este arquivo é só uma cópia de referência — editar aqui NÃO altera o perfil.
+  Depois de mudar algo, copie o conteúdo para o repositório VictorJoseQM/VictorJoseQM.
+-->
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/VictorJoseQM/VictorJoseQM/main/assets/banner.svg" width="100%" alt="Victor José — Full Stack Developer" />
@@ -26,6 +32,7 @@ Graduando em Sistemas de Informação no IFMA, em São Luís.
 <sub>**Linguagens**</sub>
 
 <img src="https://skillicons.dev/icons?i=ts,js,java,cs,c,py&theme=dark" alt="TypeScript, JavaScript, Java, C#, C, Python" />
+<img src="https://img.shields.io/badge/Delphi-05070F?style=flat-square&logo=delphi&logoColor=FF2E97" alt="Delphi" />
 
 <sub>**Mobile & Front-end**</sub>
 
@@ -35,12 +42,15 @@ Graduando em Sistemas de Informação no IFMA, em São Luís.
 <sub>**Back-end**</sub>
 
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,spring,prisma,jest&theme=dark" alt="Node.js, NestJS, Express, Spring Boot, Prisma, Jest" />
+<img src="https://img.shields.io/badge/Fastify-05070F?style=flat-square&logo=fastify&logoColor=FFFFFF" alt="Fastify" />
 <img src="https://img.shields.io/badge/Socket.IO-05070F?style=flat-square&logo=socketdotio&logoColor=FFFFFF" alt="Socket.IO" />
 <img src="https://img.shields.io/badge/TypeORM-05070F?style=flat-square&logoColor=FFFFFF" alt="TypeORM" />
 
 <sub>**Dados & Infra**</sub>
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,aws,firebase,netlify&theme=dark" alt="PostgreSQL, MongoDB, Docker, AWS, Firebase, Netlify" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-05070F?style=flat-square&logo=githubactions&logoColor=00F0FF" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Testcontainers-05070F?style=flat-square&logo=testcontainers&logoColor=2BE38A" alt="Testcontainers" />
 
 <sub>**Ferramentas**</sub>
 
@@ -60,6 +70,8 @@ Graduando em Sistemas de Informação no IFMA, em São Luís.
 **[rethink3d-raffle-web](https://github.com/Rethink3D/rethink3d-raffle-web)** — Site de sorteios. TypeScript.
 
 <sub>**Acadêmicos e pessoais**</sub>
+
+**[nfe-hub](https://github.com/VictorJoseQM/nfe-hub)** — Emissão de nota fiscal eletrônica: API em Node.js/TypeScript (Fastify, PostgreSQL, MongoDB) consumida por um cliente desktop em Delphi. Chave de acesso, geração de XML, testes com Testcontainers e CI/CD.
 
 **[HotelHub](https://github.com/VictorJoseQM/HotelHub)** — Sistema de gestão hoteleira em C#.
 
