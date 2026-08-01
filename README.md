@@ -13,17 +13,39 @@
 
 <br/>
 
-Construo aplicações mobile e APIs que aguentam crescer. Trabalho principalmente com **React Native**, **NestJS** e **TypeScript** — do desenho da arquitetura até o deploy.
+Co-fundador e desenvolvedor full stack na **[Rethink3D](https://github.com/Rethink3D)**, onde arquitetei uma plataforma completa — app mobile, painel web e API — cuidando desde a modelagem do banco e a infra na AWS até a publicação nas lojas.
 
-Hoje na **[Rethink3D](https://github.com/Rethink3D)**, no Brasil.
+No dia a dia: **React Native/Expo**, **NestJS** e **TypeScript**. Chat em tempo real, mapas, pagamentos, testes automatizados e deploy.
+
+Graduando em Sistemas de Informação no IFMA, em São Luís.
 
 <br/>
 
 ## Stack
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,express,tailwind&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Node.js, NestJS, Express, Tailwind" />
+<sub>**Linguagens**</sub>
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,docker,aws,firebase,java,spring&theme=dark" alt="PostgreSQL, MongoDB, Prisma, Docker, AWS, Firebase, Java, Spring" />
+<img src="https://skillicons.dev/icons?i=ts,js,java,cs,c,py&theme=dark" alt="TypeScript, JavaScript, Java, C#, C, Python" />
+
+<sub>**Mobile & Front-end**</sub>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css&theme=dark" alt="React e React Native, Next.js, Vite, Tailwind CSS, HTML, CSS" />
+<a href="https://expo.dev"><img src="https://img.shields.io/badge/Expo-05070F?style=flat-square&logo=expo&logoColor=FFFFFF" alt="Expo" /></a>
+
+<sub>**Back-end**</sub>
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,spring,prisma,jest&theme=dark" alt="Node.js, NestJS, Express, Spring Boot, Prisma, Jest" />
+<img src="https://img.shields.io/badge/Socket.IO-05070F?style=flat-square&logo=socketdotio&logoColor=FFFFFF" alt="Socket.IO" />
+<img src="https://img.shields.io/badge/TypeORM-05070F?style=flat-square&logoColor=FFFFFF" alt="TypeORM" />
+
+<sub>**Dados & Infra**</sub>
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,aws,firebase,netlify&theme=dark" alt="PostgreSQL, MongoDB, Docker, AWS, Firebase, Netlify" />
+
+<sub>**Ferramentas**</sub>
+
+<img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" alt="Git, GitHub, Figma" />
+<img src="https://img.shields.io/badge/Jira-05070F?style=flat-square&logo=jira&logoColor=00F0FF" alt="Jira" />
 
 <br/>
 
