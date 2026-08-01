@@ -51,13 +51,21 @@ Graduando em Sistemas de Informação no IFMA, em São Luís.
 
 ## Projetos
 
+<sub>**Rethink3D**</sub>
+
+**[rethink3d-web-frontend](https://github.com/Rethink3D/rethink3d-web-frontend)** — Site institucional oficial da Rethink3D. TypeScript.
+
+**[Admin-Rethink3D](https://github.com/Rethink3D/Admin-Rethink3D)** — Painel administrativo da plataforma. TypeScript.
+
+**[rethink3d-raffle-web](https://github.com/Rethink3D/rethink3d-raffle-web)** — Site de sorteios. TypeScript.
+
+<sub>**Acadêmicos e pessoais**</sub>
+
 **[HotelHub](https://github.com/VictorJoseQM/HotelHub)** — Sistema de gestão hoteleira em C#.
 
 **[Avaliação de Portais da Transparência](https://github.com/VictorJoseQM/Sistema-de-avaliacao-de-Portais-da-Transparencia-master)** — Ferramenta para auditar portais públicos segundo critérios de transparência.
 
 **[cliente-api-rest](https://github.com/VictorJoseQM/cliente-api-rest)** — API REST em Java para cadastro e consulta de clientes.
-
-**[Lab JPA/Hibernate](https://github.com/VictorJoseQM/Lab_04_JPA-Hibernate)** — Camada de acesso a dados com JPA/Hibernate para um sistema de imobiliária.
 
 <br/>
 
