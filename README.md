@@ -1,101 +1,186 @@
+<!--
+  ╔══════════════════════════════════════════════════════════════╗
+  ║  VICTOR JOSÉ · PROFILE README  ·  tema: CYBERPUNK / NEON      ║
+  ║  paleta: #00F0FF · #7B5CFF · #B14AFF · #FF2E97 · bg #05070F   ║
+  ╚══════════════════════════════════════════════════════════════╝
+-->
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD93F9&width=435&lines=Hi+there!+I'm+Victor+José+Quaresma;A+Full+Stack+Developer)](https://git.io/typing-svg)
+<img src="https://raw.githubusercontent.com/VictorJoseQM/VictorJoseQM/main/assets/banner.svg" width="100%" alt="Victor José — Full Stack Developer" />
+
+<br/>
+
+<a href="https://victorjoseqm.github.io/victor-martins-portfolio/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=00F0FF&center=true&vCenter=true&width=720&height=45&lines=Full+Stack+Developer+%E2%80%94+Brasil+%F0%9F%87%A7%F0%9F%87%B7;React+Native+%C2%B7+NestJS+%C2%B7+TypeScript;Arquitetura+limpa%2C+produto+que+escala;Transformo+ideia+em+release." alt="typing" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=VictorJoseQM&label=PROFILE+VIEWS&color=00F0FF&style=for-the-badge" alt="views" />
+<img src="https://img.shields.io/github/followers/VictorJoseQM?label=FOLLOWERS&style=for-the-badge&color=B14AFF&labelColor=05070F" alt="followers" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-2BE38A?style=for-the-badge&labelColor=05070F" alt="status" />
+<img src="https://img.shields.io/badge/LOCATION-BRASIL-FF2E97?style=for-the-badge&labelColor=05070F" alt="location" />
 
 </div>
 
-###
+<img src="https://raw.githubusercontent.com/VictorJoseQM/VictorJoseQM/main/assets/divider.svg" width="100%" alt="" />
 
-###
+## `▚` PLAYER PROFILE
 
-<img align="right" height="150" src="https://github.com/user-attachments/assets/5ee6848f-8d15-48f4-be86-fad8fac14f08" alt="GIF CAT" />
+```ansi
+┌──────────────────────────────────────────────────────────────────────────┐
+│  PLAYER      Victor José Quaresma Martins        RANK   ██████████  A     │
+│  CLASS       Full Stack Developer                GUILD  Rethink3D        │
+│  REGION      Brasil  ·  UTC-03:00                MODE   Build & Ship     │
+├──────────────────────────────────────────────────────────────────────────┤
+│  ▸ MAIN QUEST      Produtos mobile + APIs que aguentam escala             │
+│  ▸ ACTIVE QUEST    Rethink3D — plataforma completa (mobile + backend)     │
+│  ▸ SIDE QUEST      Estudando arquitetura distribuída e AWS avançado       │
+│  ▸ LOOT DROP       Código legível > código esperto                        │
+└──────────────────────────────────────────────────────────────────────────┘
+```
 
-###
+<img src="https://raw.githubusercontent.com/VictorJoseQM/VictorJoseQM/main/assets/divider.svg" width="100%" alt="" />
 
-<div align="left">
-  <h3 align="left">🛠️ Tech Stack</h3>
+## `▚` SKILL TREE
 
-  <h4>Languages</h4>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+<div align="center">
 
-  <h4>Frontend</h4>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react / react native logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="30" alt="vite logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwind logo" />
+<img src="https://raw.githubusercontent.com/VictorJoseQM/VictorJoseQM/main/assets/skill-tree.svg" width="92%" alt="Skill tree" />
 
-  <h4>Backend</h4>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring boot logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="30" alt="socketio logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="30" alt="prisma logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo" />
+<br/><br/>
 
-  <h4>Databases, Infra & Tools</h4>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="aws logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
+<table>
+<tr>
+<td align="center" width="50%">
+
+**`LANGUAGES`**
+
+<img src="https://skillicons.dev/icons?i=ts,js,java,cs,c,python,html,css&theme=dark" alt="languages" />
+
+</td>
+<td align="center" width="50%">
+
+**`FRONTEND`**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,figma&theme=dark" alt="frontend" />
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**`BACKEND`**
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,spring,prisma,jest&theme=dark" alt="backend" />
+
+</td>
+<td align="center">
+
+**`INFRA & DATA`**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,aws,docker,firebase,git&theme=dark" alt="infra" />
+
+</td>
+</tr>
+</table>
+
 </div>
 
-###
+<img src="https://raw.githubusercontent.com/VictorJoseQM/VictorJoseQM/main/assets/divider.svg" width="100%" alt="" />
 
-<div align="left">
-  <a href="mailto:victorjosevjq543@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://wa.me/5598985807312" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/victor-josé-quaresma-martins-a0ab97260" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://www.instagram.com/victorjqm543" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="https://victorjoseqm.github.io/victor-martins-portfolio" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=react&label=&color=61DAFB&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
-  </a>
+## `▚` COMBAT STATS
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=VictorJoseQM&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=05070F&title_color=00F0FF&icon_color=B14AFF&text_color=9FB3D9&border_color=1B2A4A&border_radius=12" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorJoseQM&layout=compact&langs_count=8&bg_color=05070F&title_color=00F0FF&text_color=9FB3D9&border_color=1B2A4A&border_radius=12" alt="top languages" />
+
+<br/><br/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=VictorJoseQM&background=05070F&border=1B2A4A&stroke=1B2A4A&ring=B14AFF&fire=FF2E97&currStreakNum=FFFFFF&sideNums=9FB3D9&currStreakLabel=00F0FF&sideLabels=9FB3D9&dates=5C7099&border_radius=12" alt="streak" />
+
+<br/><br/>
+
+<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=VictorJoseQM&custom_title=CONTRIBUTION%20TIMELINE&bg_color=05070F&color=00F0FF&line=B14AFF&point=FF2E97&area=true&area_color=7B5CFF&title_color=00F0FF&border_color=1B2A4A&hide_border=false&radius=12" alt="activity graph" />
+
+### 🏆 ACHIEVEMENTS UNLOCKED
+
+<img width="94%" src="https://github-profile-trophy.vercel.app/?username=VictorJoseQM&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+
 </div>
 
-###
+<img src="https://raw.githubusercontent.com/VictorJoseQM/VictorJoseQM/main/assets/divider.svg" width="100%" alt="" />
 
-<br clear="both">
+## `▚` QUEST LOG — projetos em destaque
 
-<img src="https://raw.githubusercontent.com/VictorJoseQM/VictorJoseQM/output/snake.svg" alt="Snake animation" width="100%" />
+<div align="center">
 
-###
+<a href="https://github.com/VictorJoseQM/HotelHub">
+  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorJoseQM&repo=HotelHub&bg_color=05070F&title_color=00F0FF&text_color=9FB3D9&icon_color=B14AFF&border_color=1B2A4A&border_radius=12" alt="HotelHub" />
+</a>
+<a href="https://github.com/VictorJoseQM/Sistema-de-avaliacao-de-Portais-da-Transparencia-master">
+  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorJoseQM&repo=Sistema-de-avaliacao-de-Portais-da-Transparencia-master&bg_color=05070F&title_color=00F0FF&text_color=9FB3D9&icon_color=B14AFF&border_color=1B2A4A&border_radius=12" alt="Portais da Transparência" />
+</a>
+
+<a href="https://github.com/VictorJoseQM/Lab_04_JPA-Hibernate">
+  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorJoseQM&repo=Lab_04_JPA-Hibernate&bg_color=05070F&title_color=00F0FF&text_color=9FB3D9&icon_color=B14AFF&border_color=1B2A4A&border_radius=12" alt="JPA Hibernate" />
+</a>
+<a href="https://github.com/VictorJoseQM/cliente-api-rest">
+  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorJoseQM&repo=cliente-api-rest&bg_color=05070F&title_color=00F0FF&text_color=9FB3D9&icon_color=B14AFF&border_color=1B2A4A&border_radius=12" alt="cliente-api-rest" />
+</a>
+
+<br/><br/>
+
+<a href="https://victorjoseqm.github.io/victor-martins-portfolio/">
+  <img src="https://img.shields.io/badge/▸%20VER%20PORTFÓLIO%20COMPLETO-05070F?style=for-the-badge&logo=react&logoColor=00F0FF&labelColor=05070F&color=B14AFF" alt="portfolio" />
+</a>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/VictorJoseQM/VictorJoseQM/main/assets/divider.svg" width="100%" alt="" />
+
+## `▚` CONTRIBUTION GRID
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorJoseQM/VictorJoseQM/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VictorJoseQM/VictorJoseQM/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/VictorJoseQM/VictorJoseQM/output/snake.svg" width="100%" alt="snake eating my contributions" />
+</picture>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/VictorJoseQM/VictorJoseQM/main/assets/divider.svg" width="100%" alt="" />
+
+## `▚` CONNECT
+
+<div align="center">
+
+<a href="mailto:victorjosevjq543@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-05070F?style=for-the-badge&logo=gmail&logoColor=FF2E97" alt="gmail" />
+</a>
+<a href="https://www.linkedin.com/in/victor-josé-quaresma-martins-a0ab97260">
+  <img src="https://img.shields.io/badge/LINKEDIN-05070F?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="linkedin" />
+</a>
+<a href="https://wa.me/5598985807312">
+  <img src="https://img.shields.io/badge/WHATSAPP-05070F?style=for-the-badge&logo=whatsapp&logoColor=2BE38A" alt="whatsapp" />
+</a>
+<a href="https://www.instagram.com/victorjqm543/">
+  <img src="https://img.shields.io/badge/INSTAGRAM-05070F?style=for-the-badge&logo=instagram&logoColor=B14AFF" alt="instagram" />
+</a>
+<a href="https://victorjoseqm.github.io/victor-martins-portfolio/">
+  <img src="https://img.shields.io/badge/PORTFÓLIO-05070F?style=for-the-badge&logo=googlechrome&logoColor=7B5CFF" alt="portfolio" />
+</a>
+
+<br/><br/>
+
+```ansi
+> conexão aberta. mande a ideia — eu levo até o deploy.
+```
+
+<sub>`ONLINE` · aceitando freelas e conversas sobre produto, mobile e backend</sub>
+
+</div>
